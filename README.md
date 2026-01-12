@@ -1,16 +1,25 @@
-# note_app_flutter
+# Note Taking App
+  Note Taking App made with Flutter
 
-A new Flutter project.
+## Tech used
+Flutter, Sqlite
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots: <br>
+<table style={border:"none"}>
+<tr>
+  <td>
+    <img width="500" height="900" alt="Image" src="https://github.com/user-attachments/assets/8b2f28f9-f80b-495e-90b7-3b7f30aa1192" />
+  </td>
+  <td>
+    <img width="500" height="900" alt="Image" src="https://github.com/user-attachments/assets/704143fe-06ad-4ab2-84ce-eddd15cb3c7f" />
+  </td>
+  <td>
+    <img width="500" height="900" alt="Image" src="https://github.com/user-attachments/assets/5b86c57d-5e3a-4378-ae0d-8eda65e7d982" />
+  </td>
+</tr>
+<tr>
+  <td>
+    <img width="500" height="900" alt="Image" src="https://github.com/user-attachments/assets/4e1a9dab-e29c-47f8-ae72-7b8b6c025cfd" />
+  </td>
+</tr>
+</table>
