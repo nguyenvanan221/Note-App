@@ -1,10 +1,12 @@
 # Note Taking App
   Note Taking App made with Flutter
 
-## Tech used
-Flutter, Sqlite
+## Tech stack
+- Flutter
+- Database: Sqlite
+- State Management: Provider
 
-Screenshots: <br>
+## Screenshots: <br>
 <table style={border:"none"}>
 <tr>
   <td>
